@@ -1,7 +1,4 @@
-.nav_center
-{
-    margin-left: 35%;
-}
+
 .navbar-inverse{
   background-color:#FA6900;
 }
@@ -244,6 +241,10 @@ Resume Timeline
 .iconcenter{
   font-size: 60px;
   margin-left:44%;
+}
+#spacebetween
+{
+  margin-top:10%;
 }
 /*--------------mediaqueries------------------*/
 @media all and (max-width: 575px)
