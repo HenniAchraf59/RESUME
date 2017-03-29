@@ -56,9 +56,9 @@ p{
   margin-top: 10%;
 }
 .textalign{
-  margin-top:16%;
-  margin-right:26%;
-  font-size: 118%;
+  margin-top:12%;
+  margin-right:24%;
+  font-size: 117%;
 }
 
 .imagesection1right
@@ -72,11 +72,9 @@ p{
   color:white;
 }
 
-/* === Resume Section === */
+/* === À propos === */
 
-/*---------------------------------------------------------
-Resume Timeline
------------------------------------------------------------*/
+
 .resume-title h3{
     text-align: center;
 }
@@ -248,6 +246,23 @@ Resume Timeline
 {
   margin-top:10%;
 }
+/*-------------COntact-----------*/
+.word-contact
+{
+padding-left: 2%;
+}
+.align_skills
+{
+  text-align: center;
+}
+.contact_icon
+{
+  font-size: 53px;
+}
+
+
+
+
 /*--------------mediaqueries------------------*/
 @media all and (max-width: 575px)
 {
