@@ -8,7 +8,7 @@
 }
 .myname
 {
-    background: url("img/rsz_slider.jpg") center no-repeat;
+    background: url("../img/rsz_slider.jpg") center no-repeat;
     background-size: cover;
     min-height: 100vh;
     height: auto;
@@ -52,7 +52,6 @@ p{
 }
 .picturesection1
 {
-  margin-left: 56%;
   margin-top: 10%;
 }
 .textalign{
@@ -242,9 +241,11 @@ p{
   font-size: 60px;
   margin-left:44%;
 }
-#spacebetween
+
+.margin_icon
 {
-  margin-top:10%;
+  margin-top: 43px;
+  margin-bottom: 14px;
 }
 /*-------------COntact-----------*/
 .word-contact
@@ -256,6 +257,29 @@ padding-left: 2%;
   text-align: center;
 }
 
+.icon_contact
+{
+  font-size: 43px !important;
+}
+.link_pdf
+{
+  display: block;
+  margin-top: 11%;
+  margin-bottom: 6%;
+  margin-left: 3%;
+  width: 382px;
+  padding: 22px;
+  background: #337ab7;
+  color: white;
+  background: white;
+  color: #337ab7;
+  border:1px solid #337ab7;
+}
+
+.link_pdf:hover {
+  background: #337ab7;
+  color: white;
+}
 
 
 
